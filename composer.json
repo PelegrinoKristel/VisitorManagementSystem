@@ -1,0 +1,6 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.2",
+        "dusterio/lumen-passport": "^0.3.2"
+    }
+}

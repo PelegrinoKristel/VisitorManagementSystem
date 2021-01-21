@@ -1,0 +1,7 @@
+/vendor
+/.idea
+ctgateway.json
+ctgateway.yaml
+.env
+.phpunit.result.cache
+storage/*.key
